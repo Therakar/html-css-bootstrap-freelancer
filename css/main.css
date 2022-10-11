@@ -5,3 +5,7 @@
     padding-bottom: 1.5rem;
     text-align: center;
 }
+
+.ms-hero > img{ 
+    margin-bottom: 1.5625rem;
+}
