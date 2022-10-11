@@ -24,4 +24,5 @@
 /* ABOUT US */
 .ms-about-us{
     background-color: var(--second-custom-color);
+    text-align: center;
 }
