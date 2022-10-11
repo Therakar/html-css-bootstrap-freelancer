@@ -2,4 +2,5 @@
 .ms-hero{
     background-color: var(--second-custom-color);
     padding-top: 2.5rem;
+    text-align: center;
 }
