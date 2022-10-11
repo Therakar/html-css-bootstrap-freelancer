@@ -3,7 +3,13 @@ header{
     color: white;
 }
 
+
+/* header right */
 .ms-main-nav ul{
     display: flex;
     justify-content: flex-end;
+}
+
+.ms-main-nav li{
+    padding: 0 0.5rem;
 }
