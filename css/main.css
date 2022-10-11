@@ -14,8 +14,9 @@
 /* PORTFOLIUM */
 .ms-portfolium{
     text-align: center;
+    padding-top: 3.4375rem;
 }
 
 .ms-portfolium .ms-col{
-    margin-bottom: 30px;
+    margin-bottom: 1.875rem;
 }
