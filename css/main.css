@@ -4,8 +4,11 @@
     padding-top: 2.5rem;
     padding-bottom: 1.5rem;
     text-align: center;
+    color: white;
 }
 
 .ms-hero > img{ 
     margin-bottom: 1.5625rem;
 }
+
+/* PORTFOLIO */
