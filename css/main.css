@@ -26,3 +26,7 @@
     background-color: var(--second-custom-color);
     text-align: center;
 }
+
+.ms-about-us .ms-col{
+    text-align: left;
+}
