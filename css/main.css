@@ -20,3 +20,8 @@
 .ms-portfolium .ms-col{
     margin-bottom: 1.875rem;
 }
+
+/* ABOUT US */
+.ms-about-us{
+    background-color: var(--second-custom-color);
+}
