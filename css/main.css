@@ -50,4 +50,7 @@ footer{
 
 .ms-footer-top{
     background-color: var(--first-custom-color);
+    padding-top: 3.75rem;
+    padding-bottom: 4.6875rem;
 }
+
