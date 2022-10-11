@@ -54,3 +54,6 @@ footer{
     padding-bottom: 4.6875rem;
 }
 
+.ms-footer-bottom{
+    background-color: var(--third-custom-color);
+}
