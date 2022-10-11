@@ -15,3 +15,7 @@
 .ms-portfolium{
     text-align: center;
 }
+
+.ms-portfolium .ms-col{
+    margin-bottom: 30px;
+}
