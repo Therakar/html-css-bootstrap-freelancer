@@ -43,3 +43,6 @@
 }
 
 /* FOOTER */
+.ms-footer-top{
+    background-color: var(--first-custom-color);
+}
