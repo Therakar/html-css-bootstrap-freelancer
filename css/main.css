@@ -25,6 +25,8 @@
 .ms-about-us{
     background-color: var(--second-custom-color);
     text-align: center;
+    padding-top: 3.125rem;
+    padding-bottom: 1.875rem;
 }
 
 .ms-about-us .ms-col{
