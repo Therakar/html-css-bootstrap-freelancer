@@ -1,1 +1,4 @@
 /* HERO */
+.ms-hero{
+    background-color: var(--second-custom-color);
+}
