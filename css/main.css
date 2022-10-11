@@ -58,4 +58,5 @@ footer{
     background-color: var(--third-custom-color);
     padding-top: 2.5rem;
     padding-bottom: 3.4375rem;
+    text-align: center;
 }
