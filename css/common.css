@@ -1,0 +1,19 @@
+/* GENERAL */
+main section:nth-of-type(odd){
+    background-color: var(--second-custom-color);
+}
+
+main section:nth-of-type(even){
+    color: var(--third-custom-color)
+}
+
+.ms-container{
+    text-align: left;
+    padding-left: 6.25rem;
+    padding-right: 6.25rem;
+    
+}
+
+.ms-col{
+    margin-bottom: 1.875rem;
+}

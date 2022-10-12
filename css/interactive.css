@@ -27,6 +27,14 @@ label{
     text-align: center;
 }
 
+footer{
+    text-align: center;
+}
+
+footer h4{
+    font-weight: 400;
+}
+
 .ms-input{
     width: 100%;
     border: none;
@@ -35,4 +43,8 @@ label{
 
 textarea{
     height: 8.75rem;
+}
+
+.custom-color{
+    color: var(--second-custom-color);
 }

@@ -1,0 +1,10 @@
+/* FOOTER TOP */
+.ms-footer-top ul{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+}
+
+.ms-footer-top li{
+    padding: 0 0.5rem;
+}
