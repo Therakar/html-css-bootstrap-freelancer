@@ -12,20 +12,28 @@ header h3{
     font-weight: 600;
 }
 
+/* MAIN */
+h2{
+    font-weight: 600;
+    font-size: 1.875rem;
+}
+
 /* HERO */
 h1{
     font-size: 2.5rem;
     font-weight: 600;
 }
 
-/* HERO */
 .ms-hero h3:last-child{
     font-weight: 400;
     font-size: 1.25rem;
     padding-top: .625rem;
 }
 
-h2{
-    font-weight: 600;
-    font-size: 1.875rem;
+/* ABOUT US */
+.ms-about-us p{
+    font-size: 1.25rem;
 }
+
+
+
