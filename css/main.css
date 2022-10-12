@@ -1,6 +1,13 @@
+/* GENERAL */
+main section:nth-of-type(odd){
+    background-color: var(--second-custom-color);
+}
+main section:nth-of-type(even){
+    color: var(--third-custom-color)
+}
+
 /* HERO */
 .ms-hero{
-    background-color: var(--second-custom-color);
     padding-top: 8.125rem;
     padding-bottom: 1.5rem;
     text-align: center;
@@ -25,7 +32,6 @@
 
 /* ABOUT US */
 .ms-about-us{
-    background-color: var(--second-custom-color);
     text-align: center;
     padding-top: 3.125rem;
     padding-bottom: 1.875rem;
