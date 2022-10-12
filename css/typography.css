@@ -5,3 +5,8 @@ body{
 header h3{
     font-weight: 700;
 }
+
+.ms-link{
+    text-decoration: none;
+    font-weight: 600;
+}
