@@ -5,12 +5,13 @@
     padding-bottom: 1.5rem;
     text-align: center;
     color: white;
-    
 }
 
 .ms-hero > img{ 
     margin-bottom: 1.5625rem;
+    max-width: 15.625rem;
 }
+
 
 /* PORTFOLIUM */
 .ms-portfolium{
