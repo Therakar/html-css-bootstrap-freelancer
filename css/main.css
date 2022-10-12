@@ -58,6 +58,9 @@ main section:nth-of-type(even){
     padding-bottom: 1.875rem;
 }
 
+.ms-contact .ms-col{
+    margin-bottom: .3125rem;
+}
 /* FOOTER */
 footer{
     color: white;

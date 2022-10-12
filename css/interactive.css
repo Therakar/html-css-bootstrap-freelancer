@@ -21,8 +21,12 @@ label{
     text-align: center;
 }
 
-input{
+.ms-input{
     width: 100%;
     border: none;
     border-bottom:1px solid lightgray;
+}
+
+textarea{
+    height: 8.75rem;
 }
