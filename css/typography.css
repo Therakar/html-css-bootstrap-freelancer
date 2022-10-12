@@ -21,4 +21,5 @@ h1{
 .ms-hero h3:last-child{
     font-weight: 400;
     font-size: 1.25rem;
+    padding-top: .625rem;
 }
