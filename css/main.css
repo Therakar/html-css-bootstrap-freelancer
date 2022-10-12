@@ -2,6 +2,7 @@
 main section:nth-of-type(odd){
     background-color: var(--second-custom-color);
 }
+
 main section:nth-of-type(even){
     color: var(--third-custom-color)
 }
