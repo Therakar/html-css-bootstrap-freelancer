@@ -7,4 +7,11 @@
 
 .ms-footer-top li{
     padding: 0 0.5rem;
+    font-size: 25px;
+}
+
+.ms-footer-top .ms-link{
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 10px 10px;
 }
