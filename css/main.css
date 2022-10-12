@@ -31,6 +31,10 @@ main section:nth-of-type(even){
     margin-bottom: 1.875rem;
 }
 
+.ms-portfolium img{
+    width: 100%;
+}
+
 /* ABOUT US */
 .ms-about-us{
     text-align: center;
