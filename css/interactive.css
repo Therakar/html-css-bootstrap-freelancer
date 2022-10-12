@@ -7,9 +7,15 @@
     padding: 0 .625rem;
 }
 
-.ms-btn-download{
+.ms-btn-alternative{
     color: white;
     padding: .3125rem .9375rem;
+}
+
+.ms-btn-custom-color{
+    background-color: var(--second-custom-color);
+    color: white; 
+    padding: 5px 15px;
 }
 
 label{
@@ -24,7 +30,7 @@ label{
 .ms-input{
     width: 100%;
     border: none;
-    border-bottom:1px solid lightgray;
+    border-bottom: 1px solid lightgray;
 }
 
 textarea{
