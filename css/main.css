@@ -7,6 +7,13 @@ main section:nth-of-type(even){
     color: var(--third-custom-color)
 }
 
+.ms-container{
+    text-align: left;
+    padding-left: 6.25rem;
+    padding-right: 6.25rem;
+    
+}
+
 /* HERO */
 .ms-hero{
     padding-top: 8.125rem;
@@ -43,11 +50,6 @@ main section:nth-of-type(even){
     color: white;
 }
 
-.ms-about-us .ms-col{
-    text-align: left;
-    padding-left: 6.25rem;
-    padding-right: 6.25rem;
-}
 
 /* CONTACT */
 .ms-contact{
@@ -73,3 +75,5 @@ footer{
     padding-bottom: 3.4375rem;
     text-align: center;
 }
+
+.ms-container

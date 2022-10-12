@@ -11,3 +11,18 @@
     color: white;
     padding: .3125rem .9375rem;
 }
+
+label{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.ms-container h2{
+    text-align: center;
+}
+
+input{
+    width: 100%;
+    border: none;
+    border-bottom:1px solid lightgray;
+}
