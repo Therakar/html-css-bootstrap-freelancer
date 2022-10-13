@@ -1,0 +1,12 @@
+.ms-social-circle{
+    display: inline-block;
+    height: 3.125rem;
+    width: 3.125rem;
+    border-radius: 50%;
+    border: 1px solid currentColor;
+    line-height: 3.125rem;
+    text-align: center;
+    font-size: 1.2;
+    color: inherit;
+    margin: 0 5px;
+}
