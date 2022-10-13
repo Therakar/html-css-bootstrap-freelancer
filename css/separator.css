@@ -1,0 +1,25 @@
+.ms-separator{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: inherit;
+    padding: 20px 0;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+
+.ms-separator::before, .ms-separator::after{
+    content: "";
+    display: block;
+    height: .1875rem;
+    max-width: 10.9375rem;
+    width: 100%;
+    border-radius: .1875rem;
+    background-color: currentColor;
+}
+
+.ms-separator i{
+    margin: 0 .9375rem;
+    font-size: 1.8rem;
+}
